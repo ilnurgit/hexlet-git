@@ -1,1 +1,3 @@
 Haskell Curry
+Ilnur
+Yuliya
